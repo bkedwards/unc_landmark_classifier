@@ -1,2 +1,2 @@
-# unc_landmark_classifier
+# Unc Landmark Classifier
 UNC Landmark Classifier
