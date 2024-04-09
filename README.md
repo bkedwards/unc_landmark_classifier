@@ -1,4 +1,4 @@
-# Unc Landmark Classifier
+# UNC Landmark Classifier
 
 This classifier trains a convolutional neural network to classify five of UNC's most famous campus landmarks: the Old Well, the Morehead-Patterson Bell Tower, Kenan Stadium, the Ackland Art Museum, and Wilson Library.
 
